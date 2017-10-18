@@ -1,25 +1,22 @@
 # Simple Idea Portfolio
 
+> THis is a Ruby on Rails 5 application that allows users to create portfolios for new ideas.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+###Features
 
-Things you may want to cover:
+- Real time chat engine for comments
+- Blog
+- Portfolio
+- Drag and drop interface
 
-* Ruby version
+###Code Examples
 
-* System dependencies
+```ruby
+def my_great-method
+  puts "here it is"
+end
+```
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```javascript
+alert('Hi there');
+```
